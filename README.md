@@ -43,8 +43,7 @@ The app works both **online** and **offline** (for saved recipes), and includes 
 | Home Screen | Recipe Details | Search & Filter |
 |-------------|---------------|-----------------|
 | ![k2](https://github.com/user-attachments/assets/1e0556fa-49f4-41e9-9c28-a6ac5275f8f9)| ![k4](https://github.com/user-attachments/assets/71310d84-559f-4c9d-99b5-bfe58c458acd)| ![k3](https://github.com/user-attachments/assets/1914878d-0569-43b5-be81-0efff771fd22)
-| ![k2](https://github.com/user-attachments/assets/1e0556fa-49f4-41e9-9c28-a6ac5275f8f9)| ![k4](https://github.com/user-attachments/assets/71310d84-559f-4c9d-99b5-bfe58c458acd)| ![k3](https://github.com/user-attachments/assets/1914878d-0569-43b5-be81-0efff771fd22)
- |
+| ![k8](https://github.com/user-attachments/assets/fee50bb1-17ab-4b72-b332-a17bd01626c9)| ![k10](https://github.com/user-attachments/assets/1611d53b-c05c-4745-a4de-0277e2fbecf4)| ![k9](https://github.com/user-attachments/assets/513b44b9-a134-46ca-8b6b-aa59027f52d1) |
  
 ---
 
