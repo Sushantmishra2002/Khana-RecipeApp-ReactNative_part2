@@ -70,8 +70,8 @@ The app works both **online** and **offline** (for saved recipes), and includes 
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/recipe-master-app.git](https://github.com/yourusername/recipe-master-app.git)
-    cd recipe-master-app
+    git clone [https://github.com/Sushantmishra2002/Khana-RecipeApp-ReactNative_part2.git)
+    cd recipe
     ```
  
 2.  **Install Dependencies**
