@@ -73,7 +73,7 @@ The app works both **online** and **offline** (for saved recipes), and includes 
     git clone [https://github.com/yourusername/recipe-master-app.git](https://github.com/yourusername/recipe-master-app.git)
     cd recipe-master-app
     ```
-
+ 
 2.  **Install Dependencies**
     ```bash
     npm install
