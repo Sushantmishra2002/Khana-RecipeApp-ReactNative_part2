@@ -68,15 +68,33 @@ The app works both **online** and **offline** (for saved recipes), and includes 
 
 ## 📦 Installation & Setup
 
-### 1. Clone the Repository
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/yourusername/recipe-master-app.git](https://github.com/yourusername/recipe-master-app.git)
+    cd recipe-master-app
+    ```
 
-git clone https://github.com/yourusername/recipe-master-app.git
-cd recipe-master-app
+2.  **Install Dependencies**
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
 
-### 2. Install Dependencies
-bash
-Copy
-Edit
-npm install
-# or
-yarn install
+3.  **Configure API Keys**
+    Get your API key
+    Create a `.env` file in the root folder and add:
+    ```ini
+    API_KEY=your_api_key_here
+    ```
+
+4.  **Run the App**
+    ```bash
+    npm start
+    # For iOS
+    npm run ios
+    # For Android
+    npm run android
+    ```
+
+---
