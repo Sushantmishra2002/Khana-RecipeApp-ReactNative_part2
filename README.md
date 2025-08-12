@@ -69,6 +69,14 @@ The app works both **online** and **offline** (for saved recipes), and includes 
 ## 📦 Installation & Setup
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/yourusername/recipe-master-app.git
 cd recipe-master-app
+
+### 2. Install Dependencies
+bash
+Copy
+Edit
+npm install
+# or
+yarn install
