@@ -4,9 +4,12 @@ A visually appealing, feature-rich mobile application that provides **1,000+ rec
 
 ---
 
+## 📸 Screenshots
 
+|  |  |
+|-------------|----------------|
+| ![k1](https://github.com/user-attachments/assets/0a45aa4a-f074-4980-b798-5da834e27e15)| ![k7](https://github.com/user-attachments/assets/cac4ecc7-3a92-40d4-8923-cc72ab494851)|
 
-| ![k2](https://github.com/user-attachments/assets/1e0556fa-49f4-41e9-9c28-a6ac5275f8f9)| ![k4](https://github.com/user-attachments/assets/71310d84-559f-4c9d-99b5-bfe58c458acd)| 
 
 ---
 
