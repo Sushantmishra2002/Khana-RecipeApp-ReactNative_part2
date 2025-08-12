@@ -43,7 +43,7 @@ The app works both **online** and **offline** (for saved recipes), and includes 
 | Home Screen | Recipe Details | Search & Filter |
 |-------------|---------------|-----------------|
 | ![Home](assets/screenshots/home.png) | ![Details](assets/screenshots/details.png) | ![Search](assets/screenshots/search.png) |
-
+ 
 ---
 
 ## 🛠 Tech Stack
