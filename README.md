@@ -20,12 +20,7 @@ A visually appealing, feature-rich mobile application that provides **1,000+ rec
 4. [Tech Stack](#tech-stack)
 5. [How It Works](#how-it-works)
 6. [Installation & Setup](#installation--setup)
-7. [Usage Guide](#usage-guide)
-8. [Folder Structure](#folder-structure)
-9. [API Details](#api-details)
-10. [Contributing](#contributing)
-11. [License](#license)
-12. [Contact](#contact)
+
 
 ---
 
