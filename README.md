@@ -100,6 +100,11 @@ The app works both **online** and **offline** (for saved recipes), and includes 
     npm run ios
     # For Android
     npm run android
+
     ```
+
+
+
+    ----
 
 ---
