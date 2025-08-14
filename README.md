@@ -8,7 +8,8 @@ A visually appealing, feature-rich mobile application that provides **1,000+ rec
 
 |  |  |
 |-------------|----------------|
-| ![k1](https://github.com/user-attachments/assets/0a45aa4a-f074-4980-b798-5da834e27e15)| ![k7](https://github.com/user-attachments/assets/cac4ecc7-3a92-40d4-8923-cc72ab494851)|
+| ![k1](https://github.com/user-attachments/assets/0a45aa4a-f074-4980-b798-5da834e27e15)| <img width="471" height="638" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/b89386f2-d3a1-4fff-9e0b-17882619943f" />
+|
 
 
 ---
